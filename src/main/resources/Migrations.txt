@@ -1,0 +1,13 @@
+API URL :localhost:8080/gender-with-marital-status
+Method: GET
+body
+{
+    "gender": "Female",
+    "maritalStatus": ["Unmarried","Widow", "Divorcee"]
+}
+body
+{
+    "gender": "Male",
+    "maritalStatus": ["Unmarried","Widower", "Divorce"]
+}
+
